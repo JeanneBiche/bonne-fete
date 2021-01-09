@@ -1,0 +1,56 @@
+
+.premierediv {
+    margin: 0 auto;
+    width: 90vw;
+    height: 90vh;
+    background: #FFCE6D;
+    text-align: center;
+    padding: 0;
+  
+}
+
+#fete {
+    font-size: 34px;
+    padding-top: 30vh;
+}
+
+
+
+.premierediv p {
+    font-family: 'Josefin Sans', sans-serif !important;
+    color: #118989;
+    text-shadow: none !important;
+    margin-top: 0;
+    font-size: 5em !important;
+} 
+
+footer {
+    margin: 0 auto;
+    height: 10vh;
+    width: 90vw;
+    background-color: #49AAAA;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer p {
+    width: 25vw;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size: 0.8em;
+    color: black;
+}
+
+#footer1 a:link {
+    color: inherit;
+}
+
+#footer1 a:visited {
+    color: inherit;
+}
+
+
+footer i {
+    font-size: 20px;
+}
